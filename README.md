@@ -22,6 +22,8 @@ This version of the tool only supports **Debian Based Linux Distros**.
 # Author
 - **SmokinSpectre**
     - [Github](https://github.com/SmokinSpectre)
+    - [PayPal](https://www.paypal.com/paypalme2/SmokinSpectre)
+
 # Author
 - **xor3n**
     - [Github](https://github.com/xor3n)
